@@ -21,7 +21,7 @@ Use in your Scene.
 
 ## Example
 ```cpp
-using UIKit;
+using namespace UIKit;
 
 RateButton rateButton;
 
