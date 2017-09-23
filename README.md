@@ -23,8 +23,6 @@ Use in your Scene.
 ```cpp
 using namespace UIKit;
 
-RateButton rateButton;
-
-rateButton.Create("Normal.png", "Selected.png", this);
-rateButton.SetPosition(Center, Middle);
+RateButton.Create("Normal.png", "Selected.png", this);
+RateButton.SetPosition(Center, Middle);
 ```
